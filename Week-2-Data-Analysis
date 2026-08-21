@@ -1,0 +1,41 @@
+# Week 2 - Execution of Data Analysis Process
+
+## Objective
+
+This project implements the data exploration strategy developed during Week 1 using Python.
+
+## Dataset
+
+UCI Bike Sharing Dataset
+
+The dataset contains information about bike rental demand, time, season, weather, temperature, humidity, wind speed, and working-day conditions.
+
+## Analysis Performed
+
+- Dataset ingestion
+- Data inspection
+- Data type checking
+- Missing-value analysis
+- Duplicate checking
+- Data cleaning
+- Data transformation
+- Outlier investigation
+- Descriptive statistics
+- Exploratory data analysis
+- Data visualization
+- Correlation analysis
+- Initial findings
+
+## Python Libraries
+
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+## Execution
+
+Install the required libraries:
+
+```bash
+python -m pip install pandas numpy matplotlib seaborn
